@@ -1,0 +1,7 @@
+{
+  "name": "Smart English Notebook",
+  "description": "AI-powered English notebook that turns textbook photos into structured notes, mind maps, and interactive exercises.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
